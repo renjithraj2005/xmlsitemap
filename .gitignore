@@ -1,0 +1,6 @@
+
+.DS_Store
+# Intellij project files
+*.iws
+.idea/
+*.pyc
